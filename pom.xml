@@ -28,7 +28,7 @@
 
     <properties>
         <powermock.version>1.6.5</powermock.version>
-        <log4j.version>2.11.1</log4j.version>
+        <log4j.version>2.13.3</log4j.version>
         <javadocExecutable>${java.home}/../bin/javadoc</javadocExecutable>
     </properties>
     <dependencies>
